@@ -1,0 +1,5 @@
+# Select the downloading images options
+
+search: "pycharm code"
+images: 100
+output_dir: dataset
